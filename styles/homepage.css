@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+img {
+    margin: auto;
+    display: block;
+}
+
+.copyright {
+    text-align: center;
+    font-weight: bold;
+    font-size: 10;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px;
+}
+
+.images {
+    display: grid;
+    background-color: beige;
+}
+
+.belowButton {
+    background-color: beige;
+    text-align: center;
+    display: block;
+}
+
+.physical {
+    background-color: beige;
+}
+
+#aboveButton {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.aboveButton2 {
+    width: 800px;
+    background-size: cover;
+}
+
+.test {
+    display: block;
+    background-color: beige;
+    margin-left: auto;
+    margin-right: auto;
+}
